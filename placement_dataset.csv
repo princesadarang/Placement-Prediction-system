@@ -1,0 +1,501 @@
+student_name,email,phone,college_name,branch,semester,cgpa,aptitude_score,technical_skill_score,communication_skill_score,coding_score,internship_experience,projects,backlogs,certifications,placement_status
+Prince Verma,prince.verma1@gmail.com,6107420369,Government Engineering College,ECE,6,5.67,48,41,89,29,0,1,1,3,0
+Sumit Sharma,sumit.sharma2@gmail.com,8410529190,LMN College,EEE,6,7.16,70,30,55,79,2,4,1,3,1
+Vikas Verma,vikas.verma3@gmail.com,7631775357,XYZ College,CIVIL,7,7.9,40,88,50,73,0,8,2,5,1
+Ravi Rajput,ravi.rajput4@gmail.com,6298737106,ABC College,ECE,7,9.73,64,42,83,60,3,5,1,5,1
+Simran Sahu,simran.sahu5@gmail.com,7146660997,XYZ College,IT,8,8.5,55,89,83,59,1,5,0,3,1
+Deepak Kumar,deepak.kumar6@gmail.com,7149938334,XYZ College,ECE,8,9.21,75,57,98,75,3,2,2,2,1
+Aarti Mishra,aarti.mishra7@gmail.com,7128466620,National Engineering College,EEE,8,6.92,63,47,98,36,0,1,1,2,0
+Sumit Verma,sumit.verma8@gmail.com,7652563013,Global Institute of Technology,DS,8,6.21,36,44,69,68,0,4,3,2,0
+Rahul Rajput,rahul.rajput9@gmail.com,9761759725,Government Engineering College,IT,8,9.38,73,94,60,44,2,2,4,8,0
+Sumit Jain,sumit.jain10@gmail.com,8098545541,ABC College,AIML,7,9.22,74,60,42,55,0,1,3,1,0
+Arjun Patel,arjun.patel11@gmail.com,8833608204,Modern Engineering College,IT,7,7.53,89,57,60,64,3,5,3,8,1
+Neha Singh,neha.singh12@gmail.com,6965067727,XYZ College,CIVIL,6,7.82,64,58,35,34,0,3,0,0,0
+Rohan Mishra,rohan.mishra13@gmail.com,7022222125,Government Engineering College,DS,6,7.59,95,61,95,77,1,1,0,6,1
+Isha Kumar,isha.kumar14@gmail.com,8005855667,ABC College,AIML,6,6.93,78,43,66,49,1,8,3,2,0
+Pooja Gupta,pooja.gupta15@gmail.com,7986972437,LMN College,AIML,7,8.88,47,36,36,36,1,2,3,7,0
+Simran Mehta,simran.mehta16@gmail.com,7722454917,ABC College,IT,7,5.01,84,63,93,61,3,8,3,2,0
+Sahil Singh,sahil.singh17@gmail.com,6251183830,National Engineering College,CSE,8,6.51,41,91,55,32,0,2,0,1,0
+Tanya Verma,tanya.verma18@gmail.com,9823754905,National Engineering College,ECE,8,7.85,45,83,75,58,1,5,1,4,1
+Arjun Sahu,arjun.sahu19@gmail.com,8772404776,Government Engineering College,DS,7,9.46,44,31,93,97,0,1,4,3,0
+Mohit Patel,mohit.patel20@gmail.com,7498981529,XYZ College,ECE,7,6.37,91,68,36,95,2,1,1,4,1
+Vikas Rajput,vikas.rajput21@gmail.com,8376077463,PQR College,ME,7,7.9,78,56,68,89,3,4,0,1,1
+Ritika Sharma,ritika.sharma22@gmail.com,6015228622,Techno India College,IT,8,9.7,55,86,89,96,0,1,0,2,1
+Amit Mehta,amit.mehta23@gmail.com,7585770584,National Engineering College,IT,7,5.61,74,76,40,70,1,3,0,5,1
+Harsh Chouhan,harsh.chouhan24@gmail.com,9218981849,PQR College,ECE,6,9.69,57,82,38,47,2,6,1,4,1
+Vikas Kumar,vikas.kumar25@gmail.com,9745927824,ABC College,DS,6,5.96,93,74,74,54,1,0,1,6,1
+Ritika Mehta,ritika.mehta26@gmail.com,6298159856,Government Engineering College,CIVIL,8,7.45,77,33,49,58,1,4,0,1,1
+Isha Jain,isha.jain27@gmail.com,9129077209,Techno India College,EEE,8,9.72,49,79,59,57,0,6,0,8,1
+Piyush Singh,piyush.singh28@gmail.com,7564319318,Global Institute of Technology,AIML,8,9.42,75,45,73,89,2,6,2,6,1
+Aarti Patel,aarti.patel29@gmail.com,6823946934,Global Institute of Technology,EEE,8,8.59,57,68,86,95,0,4,2,3,1
+Megha Chouhan,megha.chouhan30@gmail.com,8811939242,Techno India College,DS,7,7.12,62,95,95,46,0,4,4,5,0
+Nisha Sahu,nisha.sahu31@gmail.com,7333241445,LMN College,ECE,6,5.12,66,90,44,83,3,3,3,7,1
+Nisha Patel,nisha.patel32@gmail.com,8817747689,ABC College,AIML,7,6.05,94,36,66,40,3,2,3,8,0
+Sumit Jain,sumit.jain33@gmail.com,9243774098,Modern Engineering College,EEE,8,7.14,55,90,92,58,1,4,4,7,1
+Ritika Yadav,ritika.yadav34@gmail.com,6332788471,Government Engineering College,ECE,7,6.61,45,47,54,54,3,2,1,1,0
+Harsh Jain,harsh.jain35@gmail.com,8330497115,Modern Engineering College,EEE,6,5.99,88,79,37,98,3,7,0,5,1
+Manish Mehta,manish.mehta36@gmail.com,9829571259,Global Institute of Technology,ECE,7,6.05,90,92,38,74,2,6,1,7,1
+Riya Mishra,riya.mishra37@gmail.com,6115820025,Global Institute of Technology,CSE,6,8.09,52,89,58,31,2,6,2,3,1
+Deepak Jain,deepak.jain38@gmail.com,9269456693,Global Institute of Technology,ME,7,6.21,45,90,37,94,0,5,1,1,0
+Priya Singh,priya.singh39@gmail.com,6856247605,ABC College,IT,6,5.61,49,57,94,57,2,2,4,1,0
+Muskan Verma,muskan.verma40@gmail.com,8485432021,ABC College,ME,8,8.25,83,80,60,34,1,1,2,1,1
+Amit Jain,amit.jain41@gmail.com,8288123416,Global Institute of Technology,CIVIL,6,7.43,78,31,88,87,0,6,2,7,1
+Isha Patel,isha.patel42@gmail.com,9151626818,Central Institute of Technology,ME,8,8.88,96,89,90,100,2,5,1,1,1
+Kunal Singh,kunal.singh43@gmail.com,9223271103,Modern Engineering College,EEE,7,5.14,76,53,97,52,2,4,2,4,1
+Ritika Mishra,ritika.mishra44@gmail.com,6043598698,Central Institute of Technology,ECE,6,6.16,87,92,65,85,3,7,0,1,1
+Ayush Kumar,ayush.kumar45@gmail.com,8971203213,LMN College,ME,8,7.79,95,97,79,79,2,5,3,4,1
+Mohit Singh,mohit.singh46@gmail.com,6518213060,LMN College,CIVIL,6,8.57,58,54,62,86,2,8,4,4,0
+Ravi Gupta,ravi.gupta47@gmail.com,6977032766,Techno India College,IT,7,5.07,51,65,40,31,2,2,3,1,0
+Yash Gupta,yash.gupta48@gmail.com,8016044512,Modern Engineering College,DS,7,5.88,41,62,96,39,0,6,3,1,0
+Prince Sahu,prince.sahu49@gmail.com,6230249217,PQR College,IT,8,9.56,45,61,50,96,3,3,4,6,0
+Kunal Gupta,kunal.gupta50@gmail.com,9694387705,National Engineering College,EEE,7,7.73,42,42,61,52,2,1,1,3,0
+Aarti Verma,aarti.verma51@gmail.com,6672302490,ABC College,EEE,7,8.31,95,67,39,54,2,4,3,1,0
+Mohit Pandey,mohit.pandey52@gmail.com,9398383187,National Engineering College,ECE,7,5.55,63,49,69,43,0,0,1,4,0
+Yash Roy,yash.roy53@gmail.com,7239573053,Modern Engineering College,AIML,7,8.31,86,64,98,81,0,0,3,5,1
+Mohit Sharma,mohit.sharma54@gmail.com,6392245997,LMN College,CSE,8,8.94,40,52,95,91,3,4,1,6,1
+Anjali Yadav,anjali.yadav55@gmail.com,7494481363,Global Institute of Technology,CIVIL,7,8.22,55,72,87,88,2,6,4,0,1
+Anjali Jain,anjali.jain56@gmail.com,7084044802,Techno India College,AIML,7,9.15,35,89,87,31,1,8,2,7,1
+Sneha Singh,sneha.singh57@gmail.com,7146997816,Central Institute of Technology,IT,7,7.1,97,45,38,55,1,4,4,0,0
+Harsh Verma,harsh.verma58@gmail.com,6965081954,XYZ College,DS,6,8.11,54,93,72,90,2,6,3,7,1
+Divya Mishra,divya.mishra59@gmail.com,6621232513,Global Institute of Technology,ECE,8,7.44,52,38,70,78,2,8,2,0,1
+Muskan Mehta,muskan.mehta60@gmail.com,8520878317,National Engineering College,DS,6,7.14,96,74,77,95,3,7,2,3,1
+Yash Kumar,yash.kumar61@gmail.com,7003143045,Global Institute of Technology,CSE,7,8.57,83,79,54,88,0,2,4,5,0
+Kunal Verma,kunal.verma62@gmail.com,8258942692,Modern Engineering College,CSE,8,5.69,54,39,95,58,2,6,0,5,1
+Manish Jain,manish.jain63@gmail.com,8692081959,Modern Engineering College,CSE,8,5.33,71,59,46,80,0,1,3,2,0
+Priya Sharma,priya.sharma64@gmail.com,7393178591,ABC College,ME,7,6.8,53,61,87,97,1,2,1,1,0
+Manish Chouhan,manish.chouhan65@gmail.com,8934040683,LMN College,DS,8,5.69,94,62,93,57,0,7,2,8,0
+Rohan Yadav,rohan.yadav66@gmail.com,7484193033,National Engineering College,ME,8,9.62,67,88,73,50,3,7,0,3,1
+Yash Jain,yash.jain67@gmail.com,8468798461,Government Engineering College,ME,6,9.69,85,65,36,97,0,7,2,3,1
+Akash Singh,akash.singh68@gmail.com,8734252963,LMN College,ME,8,8.63,52,42,40,64,3,0,4,5,0
+Anjali Roy,anjali.roy69@gmail.com,7267489756,Techno India College,EEE,6,5.96,81,97,69,46,2,7,2,5,1
+Divya Verma,divya.verma70@gmail.com,6604546780,LMN College,EEE,8,6.76,85,31,68,93,0,7,2,4,1
+Manish Mehta,manish.mehta71@gmail.com,8742548209,Techno India College,AIML,8,6.12,38,71,63,33,3,4,3,1,0
+Amit Sharma,amit.sharma72@gmail.com,7307235909,Modern Engineering College,AIML,6,6.13,52,79,93,72,3,2,3,1,0
+Riya Kumar,riya.kumar73@gmail.com,7201474778,ABC College,CIVIL,6,7.13,65,76,47,72,2,0,3,4,1
+Neha Mehta,neha.mehta74@gmail.com,9539873758,Modern Engineering College,AIML,8,6.02,37,36,77,56,1,3,0,8,0
+Megha Singh,megha.singh75@gmail.com,9492035954,LMN College,CIVIL,6,8.79,35,65,53,41,2,2,0,0,1
+Rahul Jain,rahul.jain76@gmail.com,9392958303,LMN College,CIVIL,6,5.84,41,46,88,92,0,1,3,7,0
+Rishabh Chouhan,rishabh.chouhan77@gmail.com,6468383404,Modern Engineering College,ECE,8,5.21,73,88,38,32,3,6,3,1,0
+Kunal Verma,kunal.verma78@gmail.com,9862321353,XYZ College,CIVIL,8,5.71,51,65,76,73,2,7,4,6,0
+Neha Mehta,neha.mehta79@gmail.com,8811970742,Central Institute of Technology,ECE,7,7.17,64,82,78,83,3,6,0,5,1
+Deepak Sahu,deepak.sahu80@gmail.com,7094743340,Techno India College,IT,8,9.43,43,41,45,36,3,1,2,2,0
+Sneha Chouhan,sneha.chouhan81@gmail.com,8411995282,Central Institute of Technology,CIVIL,8,5.59,80,84,41,61,2,5,0,8,1
+Kavita Sahu,kavita.sahu82@gmail.com,8070987704,LMN College,AIML,7,9.06,82,44,70,98,1,6,4,8,1
+Sumit Roy,sumit.roy83@gmail.com,8825363606,Government Engineering College,CSE,6,6.31,74,73,79,25,1,2,4,6,0
+Kavita Rajput,kavita.rajput84@gmail.com,8719453060,ABC College,AIML,8,7.55,83,83,93,68,1,5,2,5,1
+Sumit Verma,sumit.verma85@gmail.com,9793925798,ABC College,IT,6,8.62,41,40,69,81,3,7,4,7,1
+Ritika Singh,ritika.singh86@gmail.com,9242456102,Central Institute of Technology,AIML,7,7.06,71,92,74,30,1,6,4,0,0
+Simran Gupta,simran.gupta87@gmail.com,6907243029,PQR College,ME,7,6.57,35,93,90,47,1,6,4,3,0
+Aarti Mehta,aarti.mehta88@gmail.com,8869245055,Techno India College,AIML,7,9.14,40,85,37,83,0,5,4,6,1
+Tanya Rajput,tanya.rajput89@gmail.com,8749387529,Global Institute of Technology,ME,6,6.94,76,51,93,71,0,6,0,3,1
+Megha Kumar,megha.kumar90@gmail.com,8250402001,XYZ College,EEE,7,8.58,63,72,56,34,0,8,4,3,0
+Akash Rajput,akash.rajput91@gmail.com,9517357447,PQR College,ECE,6,5.7,60,52,54,34,1,7,3,7,0
+Prashant Sahu,prashant.sahu92@gmail.com,8682300615,Techno India College,CIVIL,6,7.11,95,86,73,60,0,5,4,1,1
+Divya Yadav,divya.yadav93@gmail.com,6161521910,ABC College,CIVIL,7,5.37,46,94,84,84,0,7,4,3,0
+Sumit Yadav,sumit.yadav94@gmail.com,8153356179,PQR College,CSE,7,5.5,78,40,57,30,1,7,3,8,0
+Riya Patel,riya.patel95@gmail.com,7562929828,Techno India College,ME,7,6.96,78,36,77,33,2,1,4,6,0
+Mohit Rajput,mohit.rajput96@gmail.com,9657449238,National Engineering College,IT,7,5.39,53,74,74,75,1,1,2,8,1
+Prashant Pandey,prashant.pandey97@gmail.com,7410796055,PQR College,AIML,8,8.22,81,32,81,64,1,3,2,7,1
+Ayush Patel,ayush.patel98@gmail.com,6665484476,XYZ College,ME,6,7.44,39,73,51,73,1,2,1,2,1
+Amit Kumar,amit.kumar99@gmail.com,7564654057,LMN College,DS,8,6.37,92,59,65,64,3,3,2,7,1
+Sahil Pandey,sahil.pandey100@gmail.com,7640129626,Central Institute of Technology,EEE,6,8.92,52,62,41,86,2,8,0,8,1
+Sahil Verma,sahil.verma101@gmail.com,9277561834,PQR College,ME,7,9.35,53,85,46,53,3,5,0,6,1
+Tanya Mishra,tanya.mishra102@gmail.com,7606152369,LMN College,EEE,6,6.8,38,70,47,67,1,2,0,4,1
+Arjun Pandey,arjun.pandey103@gmail.com,9030254796,Modern Engineering College,DS,8,5.03,45,32,67,52,1,8,4,8,0
+Neha Pandey,neha.pandey104@gmail.com,7237386857,LMN College,ME,6,5.23,88,88,43,39,3,8,0,8,1
+Nisha Rajput,nisha.rajput105@gmail.com,6616657849,Government Engineering College,EEE,6,7.95,65,83,58,35,2,1,4,8,1
+Rishabh Mishra,rishabh.mishra106@gmail.com,6087335169,Global Institute of Technology,DS,6,8.05,82,62,37,70,0,5,1,1,1
+Sakshi Patel,sakshi.patel107@gmail.com,6190420322,Techno India College,CIVIL,8,5.84,94,91,58,42,0,7,0,4,1
+Amit Pandey,amit.pandey108@gmail.com,6856716405,ABC College,CIVIL,7,7.47,95,62,39,49,2,5,0,5,1
+Neha Pandey,neha.pandey109@gmail.com,7580630311,Global Institute of Technology,EEE,8,7.11,84,73,58,88,3,5,4,4,1
+Isha Verma,isha.verma110@gmail.com,7849443634,National Engineering College,IT,8,6.41,48,40,76,62,2,7,4,6,0
+Kunal Jain,kunal.jain111@gmail.com,7920407276,ABC College,CIVIL,8,9.79,70,37,44,76,2,8,1,0,1
+Sumit Sahu,sumit.sahu112@gmail.com,9355709367,Modern Engineering College,CSE,6,5.32,81,76,84,97,0,2,3,5,0
+Kunal Pandey,kunal.pandey113@gmail.com,6330220406,National Engineering College,IT,8,6.76,75,65,66,39,0,2,3,8,0
+Aarti Verma,aarti.verma114@gmail.com,7124322241,Government Engineering College,DS,6,9.78,71,92,60,40,1,1,3,2,1
+Anjali Pandey,anjali.pandey115@gmail.com,8928863857,Techno India College,CIVIL,8,5.31,72,68,55,47,2,8,1,1,0
+Arjun Singh,arjun.singh116@gmail.com,9394626443,Modern Engineering College,CSE,7,7.66,82,89,51,36,0,4,3,7,1
+Harsh Pandey,harsh.pandey117@gmail.com,7758503592,National Engineering College,AIML,6,9.67,44,87,94,91,2,2,4,2,1
+Isha Mishra,isha.mishra118@gmail.com,9911479401,ABC College,AIML,8,5.73,56,50,76,53,2,8,2,1,0
+Ravi Sahu,ravi.sahu119@gmail.com,8365845882,Government Engineering College,IT,8,6.45,46,94,56,100,1,2,4,5,0
+Amit Mehta,amit.mehta120@gmail.com,9709911999,ABC College,AIML,6,9.55,68,56,88,28,3,8,2,4,1
+Nisha Pandey,nisha.pandey121@gmail.com,9467538895,Global Institute of Technology,ME,7,5.35,42,50,91,78,3,7,1,5,1
+Kavita Jain,kavita.jain122@gmail.com,9700050210,Techno India College,CIVIL,7,5.63,82,95,48,65,1,7,0,4,1
+Nisha Patel,nisha.patel123@gmail.com,6415802902,ABC College,ME,7,9.15,88,61,55,66,2,3,1,7,1
+Divya Yadav,divya.yadav124@gmail.com,9775601223,Government Engineering College,DS,6,5.43,85,94,93,55,1,5,0,0,1
+Komal Chouhan,komal.chouhan125@gmail.com,9789619196,Modern Engineering College,ME,8,5.04,48,85,52,58,2,6,2,0,0
+Sneha Chouhan,sneha.chouhan126@gmail.com,8412985084,LMN College,CIVIL,8,6.39,84,94,92,95,2,1,1,1,1
+Shreya Pandey,shreya.pandey127@gmail.com,7456360258,Central Institute of Technology,CIVIL,6,5.96,86,94,40,30,0,2,2,7,0
+Divya Patel,divya.patel128@gmail.com,8603869092,Central Institute of Technology,IT,7,9.47,75,50,85,63,2,8,4,8,1
+Yash Gupta,yash.gupta129@gmail.com,8039648170,ABC College,CIVIL,7,8.23,88,69,38,85,2,3,0,7,1
+Payal Sahu,payal.sahu130@gmail.com,9097456697,National Engineering College,EEE,6,8.94,66,34,49,49,0,7,2,6,0
+Harsh Rajput,harsh.rajput131@gmail.com,6875708102,Global Institute of Technology,DS,8,8.49,52,96,61,96,2,7,4,6,1
+Pooja Yadav,pooja.yadav132@gmail.com,9917543432,Central Institute of Technology,CIVIL,8,6.7,68,91,59,56,2,8,2,3,1
+Sahil Rajput,sahil.rajput133@gmail.com,6890251346,Modern Engineering College,CIVIL,7,6.67,70,66,50,98,3,6,2,2,1
+Amit Gupta,amit.gupta134@gmail.com,9067213499,XYZ College,CIVIL,7,8.15,96,57,60,93,2,8,2,2,1
+Riya Rajput,riya.rajput135@gmail.com,8520417815,LMN College,ECE,6,8.22,63,59,41,37,3,5,3,1,0
+Rahul Mishra,rahul.mishra136@gmail.com,9990452762,PQR College,EEE,8,9.49,95,91,60,61,2,4,0,1,1
+Ayush Mishra,ayush.mishra137@gmail.com,9172634443,ABC College,IT,7,9.23,57,34,85,88,1,4,0,0,1
+Yash Chouhan,yash.chouhan138@gmail.com,6460852958,Techno India College,ME,7,9.75,98,47,94,59,1,1,2,2,1
+Prashant Gupta,prashant.gupta139@gmail.com,9086355679,PQR College,CSE,8,6.62,72,54,57,76,3,8,2,1,0
+Piyush Verma,piyush.verma140@gmail.com,6793629209,PQR College,DS,7,9.49,35,63,84,55,3,4,2,4,1
+Yash Sharma,yash.sharma141@gmail.com,7123362233,Techno India College,ECE,6,8.21,94,69,55,76,2,1,2,5,1
+Ayush Singh,ayush.singh142@gmail.com,6573673552,Modern Engineering College,IT,7,8.59,82,83,95,93,1,3,4,1,1
+Kunal Mishra,kunal.mishra143@gmail.com,9022652502,Techno India College,AIML,8,5.54,60,98,54,46,2,8,3,1,0
+Megha Yadav,megha.yadav144@gmail.com,6390591367,Central Institute of Technology,DS,6,7.18,88,88,42,96,3,4,0,6,1
+Rahul Rajput,rahul.rajput145@gmail.com,6935878994,National Engineering College,AIML,6,7.03,43,37,43,85,0,4,3,2,0
+Prashant Rajput,prashant.rajput146@gmail.com,8774036963,Global Institute of Technology,CIVIL,7,7.15,83,78,45,94,1,5,0,2,1
+Tanya Mishra,tanya.mishra147@gmail.com,6546951552,LMN College,CSE,6,9.7,94,84,83,54,1,7,2,2,1
+Ravi Roy,ravi.roy148@gmail.com,9758990493,XYZ College,CSE,8,7.01,37,60,61,33,0,0,3,0,0
+Amit Kumar,amit.kumar149@gmail.com,7885330933,LMN College,ECE,6,5.67,72,59,75,98,2,3,2,2,1
+Ayush Kumar,ayush.kumar150@gmail.com,7290641764,Government Engineering College,CSE,8,9.55,57,84,98,31,2,6,4,5,1
+Harsh Patel,harsh.patel151@gmail.com,7288011277,Global Institute of Technology,IT,8,7.27,63,68,53,84,0,8,3,6,1
+Payal Patel,payal.patel152@gmail.com,7668247132,LMN College,ME,6,6.59,45,87,82,36,1,0,2,6,1
+Sumit Sharma,sumit.sharma153@gmail.com,9752171298,XYZ College,ECE,8,8.48,62,91,61,67,2,0,1,3,1
+Abhishek Roy,abhishek.roy154@gmail.com,7041929790,National Engineering College,ECE,7,9.39,76,66,83,84,2,4,2,5,1
+Komal Yadav,komal.yadav155@gmail.com,6423519117,Modern Engineering College,CIVIL,6,6.78,87,35,63,43,0,4,4,6,0
+Kavita Singh,kavita.singh156@gmail.com,7416760621,LMN College,EEE,8,9.0,98,73,67,87,3,7,1,5,1
+Arjun Rajput,arjun.rajput157@gmail.com,8347398593,Modern Engineering College,IT,8,9.75,42,97,39,34,0,0,3,2,0
+Rohan Rajput,rohan.rajput158@gmail.com,6648667392,ABC College,ECE,8,7.19,42,91,97,27,0,8,4,6,0
+Priya Mishra,priya.mishra159@gmail.com,9101794134,Government Engineering College,ME,6,7.41,90,52,48,37,1,3,1,8,1
+Akash Gupta,akash.gupta160@gmail.com,9414225544,Global Institute of Technology,AIML,7,9.6,93,61,63,63,0,0,0,6,1
+Manish Mishra,manish.mishra161@gmail.com,8044426338,ABC College,CSE,8,5.82,98,85,77,97,0,8,0,3,1
+Yash Yadav,yash.yadav162@gmail.com,7164344392,ABC College,AIML,8,9.44,39,52,75,27,1,2,3,1,0
+Aditya Chouhan,aditya.chouhan163@gmail.com,7032820212,National Engineering College,EEE,8,9.3,77,79,52,35,2,0,0,6,1
+Rohan Jain,rohan.jain164@gmail.com,8599179944,National Engineering College,EEE,7,5.14,69,87,97,54,2,8,3,6,0
+Megha Sahu,megha.sahu165@gmail.com,7632399901,XYZ College,ME,6,8.42,45,64,54,73,1,6,2,5,1
+Anjali Sharma,anjali.sharma166@gmail.com,7323998648,Modern Engineering College,CIVIL,7,5.49,46,53,90,82,3,1,0,1,0
+Aarti Verma,aarti.verma167@gmail.com,8563771436,National Engineering College,CIVIL,7,5.06,87,79,45,96,1,8,1,6,1
+Arjun Gupta,arjun.gupta168@gmail.com,7293348937,Government Engineering College,DS,6,5.3,90,65,88,63,3,1,2,4,1
+Prince Yadav,prince.yadav169@gmail.com,8550379054,National Engineering College,ECE,7,5.51,73,30,85,67,3,5,3,5,0
+Prashant Chouhan,prashant.chouhan170@gmail.com,6584650163,Government Engineering College,CIVIL,8,9.55,60,91,75,47,3,5,2,7,1
+Nisha Jain,nisha.jain171@gmail.com,7615145225,Government Engineering College,EEE,7,5.55,60,53,38,84,1,7,2,1,0
+Komal Patel,komal.patel172@gmail.com,8720157590,Government Engineering College,ECE,7,8.16,89,78,44,82,3,6,4,8,1
+Nitin Sharma,nitin.sharma173@gmail.com,9396120475,Techno India College,AIML,6,8.69,80,51,40,97,3,5,3,1,0
+Vikas Gupta,vikas.gupta174@gmail.com,6953487391,Central Institute of Technology,ECE,7,6.8,94,94,54,69,0,7,0,4,1
+Anjali Verma,anjali.verma175@gmail.com,9570482517,PQR College,CIVIL,7,6.65,61,96,96,69,3,1,3,7,0
+Rohan Gupta,rohan.gupta176@gmail.com,6191912243,XYZ College,CSE,7,8.11,56,61,57,95,1,5,4,6,0
+Ayush Pandey,ayush.pandey177@gmail.com,7739665472,PQR College,IT,8,8.16,85,33,60,82,3,6,0,3,1
+Ritika Pandey,ritika.pandey178@gmail.com,9022625060,XYZ College,AIML,8,5.9,76,55,93,39,2,7,4,5,0
+Manish Chouhan,manish.chouhan179@gmail.com,7685963666,National Engineering College,AIML,7,6.69,93,52,73,100,0,2,2,1,0
+Muskan Verma,muskan.verma180@gmail.com,6786170238,Techno India College,IT,8,6.86,52,79,89,48,3,8,1,8,1
+Komal Gupta,komal.gupta181@gmail.com,6602569046,PQR College,CIVIL,7,7.97,80,31,97,42,1,6,4,8,0
+Harsh Sahu,harsh.sahu182@gmail.com,8111946589,Global Institute of Technology,DS,7,5.8,38,58,72,29,2,3,4,4,0
+Divya Chouhan,divya.chouhan183@gmail.com,9189091602,Modern Engineering College,AIML,8,5.55,81,35,91,94,1,6,0,3,1
+Amit Yadav,amit.yadav184@gmail.com,7128782794,Techno India College,AIML,7,9.15,50,60,61,100,2,6,1,2,1
+Simran Pandey,simran.pandey185@gmail.com,6254939955,National Engineering College,CIVIL,8,6.35,56,71,72,62,2,8,0,2,1
+Sneha Gupta,sneha.gupta186@gmail.com,9723941036,PQR College,IT,6,5.7,76,61,85,87,1,4,3,6,0
+Rohan Sahu,rohan.sahu187@gmail.com,9412775111,XYZ College,EEE,8,8.6,82,88,97,66,0,1,3,5,1
+Nitin Kumar,nitin.kumar188@gmail.com,6935572425,Global Institute of Technology,ECE,7,6.29,71,73,51,97,3,5,0,0,1
+Prince Pandey,prince.pandey189@gmail.com,9593608497,Modern Engineering College,CSE,6,9.46,55,86,93,25,3,3,1,4,1
+Ritika Verma,ritika.verma190@gmail.com,8811433912,Techno India College,ME,6,6.78,56,36,85,64,1,6,0,1,0
+Simran Yadav,simran.yadav191@gmail.com,6334744286,PQR College,ECE,8,8.26,36,31,78,40,3,2,3,1,0
+Manish Verma,manish.verma192@gmail.com,9138604802,XYZ College,AIML,7,6.76,73,47,83,42,1,1,4,0,0
+Prashant Patel,prashant.patel193@gmail.com,7890212621,Techno India College,ECE,8,8.59,87,86,62,36,0,2,0,6,1
+Isha Jain,isha.jain194@gmail.com,9397648387,PQR College,ECE,7,8.09,66,66,38,63,1,8,4,8,1
+Tanya Gupta,tanya.gupta195@gmail.com,8775278048,ABC College,ECE,7,6.85,65,93,44,92,0,5,2,2,1
+Yash Kumar,yash.kumar196@gmail.com,7569434583,Central Institute of Technology,IT,7,9.58,44,32,43,26,2,3,0,0,0
+Rishabh Gupta,rishabh.gupta197@gmail.com,8699690577,Central Institute of Technology,EEE,7,8.37,45,98,54,60,0,4,0,8,1
+Kavita Mishra,kavita.mishra198@gmail.com,7403381840,Global Institute of Technology,AIML,7,8.35,65,37,66,36,3,1,3,0,0
+Piyush Rajput,piyush.rajput199@gmail.com,8826313349,PQR College,AIML,6,8.4,36,50,98,69,2,2,2,2,1
+Neha Pandey,neha.pandey200@gmail.com,9865030023,ABC College,CIVIL,7,6.31,43,63,44,88,3,8,2,0,0
+Yash Patel,yash.patel201@gmail.com,7579206999,PQR College,ME,6,9.29,49,59,35,30,0,3,0,7,0
+Manish Roy,manish.roy202@gmail.com,6644608746,PQR College,CSE,8,8.85,88,58,76,56,3,5,2,1,1
+Shreya Verma,shreya.verma203@gmail.com,8156249415,ABC College,IT,6,8.86,40,81,43,84,2,4,2,1,1
+Divya Sharma,divya.sharma204@gmail.com,7584496586,LMN College,ME,8,8.77,66,89,82,100,3,3,4,3,1
+Rahul Roy,rahul.roy205@gmail.com,7761091683,ABC College,ECE,8,6.66,36,72,35,73,2,1,1,8,1
+Harsh Yadav,harsh.yadav206@gmail.com,6257247382,PQR College,ME,6,5.21,64,96,87,72,3,1,4,1,0
+Arjun Sahu,arjun.sahu207@gmail.com,9521713809,Global Institute of Technology,AIML,8,7.73,90,46,65,62,2,5,3,5,1
+Kunal Gupta,kunal.gupta208@gmail.com,7003352579,XYZ College,ECE,6,8.74,48,49,48,46,3,7,2,6,0
+Nitin Jain,nitin.jain209@gmail.com,9308571144,LMN College,DS,7,7.22,50,41,55,63,0,3,2,2,0
+Nisha Jain,nisha.jain210@gmail.com,7701857002,Central Institute of Technology,CSE,8,6.43,57,33,86,82,1,1,3,1,0
+Neha Sharma,neha.sharma211@gmail.com,6264867118,LMN College,IT,6,8.95,82,40,68,34,0,1,1,7,0
+Anjali Roy,anjali.roy212@gmail.com,9639020267,Techno India College,AIML,6,9.52,41,51,90,75,3,0,3,6,0
+Akash Singh,akash.singh213@gmail.com,9901136913,PQR College,ME,7,7.14,54,34,66,62,3,6,4,7,0
+Anjali Gupta,anjali.gupta214@gmail.com,7645038111,PQR College,EEE,6,8.08,66,32,83,70,3,8,3,5,1
+Rishabh Jain,rishabh.jain215@gmail.com,7668084889,Government Engineering College,IT,6,6.53,63,33,70,32,3,8,2,3,0
+Vikas Singh,vikas.singh216@gmail.com,8821211202,LMN College,ME,8,8.92,42,58,84,70,1,2,1,5,1
+Megha Sharma,megha.sharma217@gmail.com,9021307114,Techno India College,IT,8,9.55,98,69,57,87,0,1,0,3,1
+Ayush Sharma,ayush.sharma218@gmail.com,8261079164,Modern Engineering College,CSE,7,9.41,60,46,78,47,2,0,0,2,1
+Kavita Pandey,kavita.pandey219@gmail.com,6476400290,Central Institute of Technology,CIVIL,6,6.79,85,42,78,63,2,2,1,6,1
+Prashant Jain,prashant.jain220@gmail.com,6748194762,Central Institute of Technology,CIVIL,6,8.19,57,78,74,62,1,2,0,6,1
+Amit Patel,amit.patel221@gmail.com,8587239638,Techno India College,ECE,8,7.71,98,48,77,34,1,5,2,2,1
+Piyush Sahu,piyush.sahu222@gmail.com,9132259278,Techno India College,DS,6,6.27,66,38,79,57,0,0,0,6,0
+Harsh Patel,harsh.patel223@gmail.com,9799121913,Global Institute of Technology,DS,7,6.69,83,42,96,98,1,2,3,1,0
+Sahil Sharma,sahil.sharma224@gmail.com,7368878709,Government Engineering College,AIML,6,6.64,83,50,44,95,0,5,4,7,0
+Isha Sahu,isha.sahu225@gmail.com,6708657549,National Engineering College,EEE,6,5.26,77,56,59,77,2,4,2,3,0
+Sneha Kumar,sneha.kumar226@gmail.com,8455732633,Central Institute of Technology,DS,6,5.26,35,84,46,62,3,3,0,0,1
+Aditya Sahu,aditya.sahu227@gmail.com,7253320675,XYZ College,DS,6,6.48,85,90,97,58,0,8,3,2,0
+Manish Jain,manish.jain228@gmail.com,6801367625,Modern Engineering College,CSE,7,7.11,68,58,69,97,0,2,0,1,1
+Nitin Kumar,nitin.kumar229@gmail.com,9248957571,National Engineering College,ECE,8,5.29,84,96,88,93,3,3,3,4,1
+Tanya Roy,tanya.roy230@gmail.com,9667643585,ABC College,IT,6,9.56,92,52,56,52,1,2,0,6,0
+Isha Singh,isha.singh231@gmail.com,9532885614,PQR College,ME,7,9.37,43,41,84,96,3,8,2,4,1
+Divya Roy,divya.roy232@gmail.com,9751509023,ABC College,EEE,6,6.99,53,42,48,97,0,4,4,5,0
+Mohit Kumar,mohit.kumar233@gmail.com,8812291645,Modern Engineering College,DS,6,5.83,86,48,86,29,3,5,1,0,0
+Ritika Roy,ritika.roy234@gmail.com,7599620611,ABC College,CIVIL,7,6.49,97,42,64,42,2,7,2,4,0
+Sumit Sahu,sumit.sahu235@gmail.com,6383484123,LMN College,DS,6,9.38,87,92,82,32,1,1,2,8,1
+Arjun Pandey,arjun.pandey236@gmail.com,9656285641,Central Institute of Technology,CSE,6,5.93,60,37,66,29,3,0,2,3,0
+Shreya Mehta,shreya.mehta237@gmail.com,7993803105,Central Institute of Technology,EEE,8,9.43,38,60,82,87,3,2,3,8,0
+Akash Patel,akash.patel238@gmail.com,9597695521,Government Engineering College,AIML,7,5.13,41,50,62,53,1,3,2,6,0
+Priya Mehta,priya.mehta239@gmail.com,9351378715,ABC College,DS,6,8.11,36,58,67,64,2,6,3,5,1
+Mohit Singh,mohit.singh240@gmail.com,8004452735,Government Engineering College,EEE,8,5.49,82,66,73,38,3,1,2,4,1
+Ritika Gupta,ritika.gupta241@gmail.com,8818012241,Government Engineering College,ECE,6,7.48,65,37,86,65,1,0,3,4,1
+Harsh Kumar,harsh.kumar242@gmail.com,7667628074,ABC College,ECE,7,8.49,63,98,95,70,2,2,4,2,1
+Vikas Yadav,vikas.yadav243@gmail.com,6549515893,Government Engineering College,IT,8,9.32,46,58,80,53,2,6,2,5,1
+Megha Gupta,megha.gupta244@gmail.com,7991836726,XYZ College,DS,6,9.16,44,90,59,89,0,6,4,4,1
+Sneha Mehta,sneha.mehta245@gmail.com,9668931881,PQR College,IT,6,6.64,93,48,75,48,0,7,2,2,0
+Prince Sharma,prince.sharma246@gmail.com,6020244331,Modern Engineering College,ME,6,8.65,56,50,97,36,1,6,3,6,0
+Abhishek Kumar,abhishek.kumar247@gmail.com,6020053819,ABC College,ECE,8,6.79,36,71,59,27,0,3,1,5,0
+Arjun Verma,arjun.verma248@gmail.com,7647336743,Central Institute of Technology,ME,6,5.31,40,68,72,83,2,6,1,5,1
+Akash Pandey,akash.pandey249@gmail.com,6809283659,PQR College,EEE,6,6.1,51,57,37,100,1,1,2,0,0
+Prince Gupta,prince.gupta250@gmail.com,9312492080,Central Institute of Technology,CSE,8,9.77,48,32,41,39,3,7,3,1,0
+Mohit Yadav,mohit.yadav251@gmail.com,9014501050,PQR College,ECE,8,8.29,36,68,88,37,2,2,3,1,0
+Riya Verma,riya.verma252@gmail.com,7214216328,XYZ College,AIML,7,5.95,60,63,60,70,3,4,1,0,1
+Komal Roy,komal.roy253@gmail.com,6892038856,Modern Engineering College,CIVIL,6,5.01,46,44,98,44,0,8,0,1,0
+Prashant Singh,prashant.singh254@gmail.com,7961731598,Government Engineering College,ME,7,5.24,57,35,72,71,2,6,0,1,0
+Rahul Mehta,rahul.mehta255@gmail.com,6594399606,PQR College,CIVIL,7,9.29,69,41,82,68,1,1,3,6,1
+Ritika Mehta,ritika.mehta256@gmail.com,7656635401,Modern Engineering College,EEE,8,9.25,56,44,51,32,1,1,3,7,0
+Kunal Patel,kunal.patel257@gmail.com,8625612966,Global Institute of Technology,CIVIL,8,5.14,51,91,97,39,3,7,0,1,1
+Prashant Jain,prashant.jain258@gmail.com,6053086688,Central Institute of Technology,ECE,8,9.19,47,85,66,86,2,6,1,8,1
+Sneha Sharma,sneha.sharma259@gmail.com,8763376419,PQR College,DS,7,9.17,44,92,76,55,2,4,0,8,1
+Aarti Sahu,aarti.sahu260@gmail.com,7626236090,Global Institute of Technology,ECE,6,7.2,92,41,98,82,2,1,3,0,0
+Tanya Kumar,tanya.kumar261@gmail.com,6153896961,Central Institute of Technology,CSE,6,8.8,73,95,61,83,2,5,0,3,1
+Sakshi Mishra,sakshi.mishra262@gmail.com,9296028351,National Engineering College,DS,8,8.15,92,44,47,53,0,5,2,4,1
+Payal Jain,payal.jain263@gmail.com,9015479599,XYZ College,CSE,6,7.36,87,43,67,50,1,1,3,3,0
+Ravi Rajput,ravi.rajput264@gmail.com,7451413560,XYZ College,EEE,6,9.45,50,87,93,100,1,7,0,8,1
+Aarti Roy,aarti.roy265@gmail.com,7858906417,National Engineering College,DS,8,8.75,57,52,51,38,3,5,4,6,0
+Sumit Roy,sumit.roy266@gmail.com,8974331558,LMN College,ME,7,9.63,72,87,52,42,3,8,2,8,1
+Aarti Sahu,aarti.sahu267@gmail.com,6933479178,LMN College,ECE,8,8.43,79,46,57,89,2,1,2,8,1
+Megha Chouhan,megha.chouhan268@gmail.com,8865418497,Global Institute of Technology,ME,7,8.88,48,33,83,43,0,0,1,4,0
+Sahil Sahu,sahil.sahu269@gmail.com,7076151332,PQR College,CSE,8,8.76,61,34,80,82,0,8,1,8,1
+Nisha Mishra,nisha.mishra270@gmail.com,9368573654,Government Engineering College,CSE,7,6.86,75,36,36,57,1,7,1,5,0
+Nitin Rajput,nitin.rajput271@gmail.com,8591527330,LMN College,ECE,7,7.15,44,53,57,90,0,6,0,6,1
+Aarti Gupta,aarti.gupta272@gmail.com,6558631501,PQR College,ME,6,6.59,54,35,54,66,0,4,3,8,0
+Rohan Pandey,rohan.pandey273@gmail.com,9039469163,Techno India College,ECE,6,7.5,55,83,86,36,2,3,1,5,1
+Shreya Gupta,shreya.gupta274@gmail.com,6938215334,National Engineering College,DS,8,8.95,36,44,79,82,1,3,0,5,1
+Neha Kumar,neha.kumar275@gmail.com,7102048042,Central Institute of Technology,ME,6,9.37,82,95,92,87,0,4,1,5,1
+Anjali Verma,anjali.verma276@gmail.com,6718955214,Central Institute of Technology,CSE,8,5.31,62,84,48,51,3,1,1,0,0
+Sakshi Sharma,sakshi.sharma277@gmail.com,6375899416,XYZ College,CSE,6,8.81,44,59,68,77,3,7,3,6,1
+Priya Kumar,priya.kumar278@gmail.com,8891796055,XYZ College,CSE,8,8.46,43,35,44,70,0,4,2,1,0
+Kunal Kumar,kunal.kumar279@gmail.com,7696998516,ABC College,DS,6,7.56,52,80,72,43,2,5,0,8,1
+Kavita Verma,kavita.verma280@gmail.com,6179414276,ABC College,EEE,8,7.63,45,69,61,69,1,6,4,2,1
+Pooja Singh,pooja.singh281@gmail.com,8649500547,Government Engineering College,ECE,6,5.87,41,89,44,62,0,4,0,3,1
+Komal Jain,komal.jain282@gmail.com,7533897596,PQR College,ECE,6,6.37,43,54,75,87,3,5,4,4,0
+Kavita Chouhan,kavita.chouhan283@gmail.com,8434653305,Techno India College,CIVIL,7,5.81,75,61,63,80,2,5,1,5,1
+Divya Yadav,divya.yadav284@gmail.com,7540783437,Government Engineering College,DS,8,5.52,45,65,52,93,1,4,0,1,1
+Rishabh Sahu,rishabh.sahu285@gmail.com,6133978190,National Engineering College,EEE,8,6.02,39,63,95,44,2,6,1,4,0
+Divya Mishra,divya.mishra286@gmail.com,8192202822,XYZ College,EEE,7,7.41,65,51,52,82,1,2,4,2,0
+Akash Sharma,akash.sharma287@gmail.com,6939820934,Modern Engineering College,ECE,6,6.27,64,35,61,91,2,6,3,7,0
+Amit Sahu,amit.sahu288@gmail.com,7391874847,XYZ College,ME,8,6.26,57,78,83,71,0,8,2,6,1
+Payal Kumar,payal.kumar289@gmail.com,7515685383,Techno India College,DS,7,9.26,35,94,52,81,1,3,0,8,1
+Simran Patel,simran.patel290@gmail.com,6802753761,PQR College,CIVIL,8,8.44,50,59,88,67,0,7,3,7,0
+Megha Patel,megha.patel291@gmail.com,8779957226,Global Institute of Technology,CSE,6,5.21,55,47,40,98,1,0,1,4,0
+Payal Kumar,payal.kumar292@gmail.com,8574220936,National Engineering College,CSE,8,8.49,71,40,62,82,3,7,1,3,1
+Sumit Patel,sumit.patel293@gmail.com,9412850018,National Engineering College,IT,8,8.17,68,51,78,83,0,3,3,6,1
+Vikas Sharma,vikas.sharma294@gmail.com,6869080406,Central Institute of Technology,EEE,6,7.91,57,90,39,93,0,1,3,2,1
+Nitin Mehta,nitin.mehta295@gmail.com,6005154842,Global Institute of Technology,EEE,7,9.2,89,59,96,73,2,1,3,2,1
+Abhishek Pandey,abhishek.pandey296@gmail.com,6998635233,XYZ College,ME,8,9.21,87,62,59,25,0,8,0,8,0
+Manish Sahu,manish.sahu297@gmail.com,6882266582,Techno India College,EEE,7,5.51,89,62,68,93,3,5,4,4,0
+Simran Kumar,simran.kumar298@gmail.com,8371272694,Central Institute of Technology,DS,6,6.78,96,62,74,98,2,6,1,1,1
+Kunal Pandey,kunal.pandey299@gmail.com,9003519744,PQR College,AIML,6,7.44,78,36,55,74,0,1,1,7,1
+Isha Verma,isha.verma300@gmail.com,6275223478,Government Engineering College,ECE,7,5.38,39,79,86,91,2,0,1,7,1
+Rahul Singh,rahul.singh301@gmail.com,9653160191,Central Institute of Technology,ME,6,5.16,64,51,39,71,1,0,1,1,0
+Tanya Jain,tanya.jain302@gmail.com,8876176605,Global Institute of Technology,EEE,8,5.96,36,38,46,95,2,8,4,5,0
+Ritika Singh,ritika.singh303@gmail.com,8604310993,LMN College,DS,7,7.76,68,52,87,89,0,8,0,8,1
+Sakshi Verma,sakshi.verma304@gmail.com,9448610677,Central Institute of Technology,ME,8,8.9,67,86,83,97,3,3,2,7,1
+Megha Mehta,megha.mehta305@gmail.com,6117470362,Modern Engineering College,AIML,7,5.32,63,59,75,77,2,8,4,0,0
+Nisha Gupta,nisha.gupta306@gmail.com,6399472479,Global Institute of Technology,CIVIL,6,7.66,57,90,75,70,1,4,1,3,1
+Ravi Singh,ravi.singh307@gmail.com,9158643786,LMN College,ME,6,6.1,66,75,54,38,0,1,3,0,0
+Amit Mehta,amit.mehta308@gmail.com,8071428721,Techno India College,CIVIL,7,9.31,70,92,58,90,2,6,1,2,1
+Payal Pandey,payal.pandey309@gmail.com,7817526512,Modern Engineering College,CSE,8,6.67,57,88,50,91,3,5,0,0,1
+Manish Chouhan,manish.chouhan310@gmail.com,6432708635,Techno India College,CIVIL,8,9.14,58,63,65,59,3,5,2,2,1
+Isha Singh,isha.singh311@gmail.com,7799990470,Techno India College,CIVIL,7,6.34,58,46,64,37,2,3,4,6,0
+Ravi Patel,ravi.patel312@gmail.com,9436134704,PQR College,DS,6,5.85,98,47,75,87,2,4,4,0,0
+Vikas Rajput,vikas.rajput313@gmail.com,6701548051,ABC College,ECE,7,7.29,47,87,77,58,2,5,4,8,1
+Akash Sharma,akash.sharma314@gmail.com,7768499634,XYZ College,CIVIL,8,9.62,60,98,57,61,2,5,4,7,1
+Anjali Kumar,anjali.kumar315@gmail.com,8635665829,Government Engineering College,DS,8,9.59,56,73,88,98,3,1,0,2,1
+Ayush Jain,ayush.jain316@gmail.com,7360981688,Government Engineering College,ME,8,8.09,69,86,81,100,3,6,1,2,1
+Arjun Rajput,arjun.rajput317@gmail.com,7007716123,Government Engineering College,AIML,6,5.8,48,42,43,85,0,0,3,8,0
+Vikas Gupta,vikas.gupta318@gmail.com,8654728627,PQR College,AIML,8,9.47,84,69,64,56,2,7,1,2,1
+Aditya Sharma,aditya.sharma319@gmail.com,6150989488,Techno India College,CIVIL,7,7.24,69,86,52,94,1,7,4,6,1
+Prince Sahu,prince.sahu320@gmail.com,8292585396,Government Engineering College,CIVIL,7,7.59,46,86,74,71,3,4,1,4,1
+Rahul Mishra,rahul.mishra321@gmail.com,9502029525,PQR College,CIVIL,7,7.25,36,92,96,63,0,6,2,3,1
+Aarti Jain,aarti.jain322@gmail.com,6809906184,Global Institute of Technology,EEE,7,6.2,84,78,63,58,0,6,1,8,1
+Ritika Gupta,ritika.gupta323@gmail.com,8785101763,Central Institute of Technology,ME,7,5.9,43,53,52,62,0,7,4,7,0
+Riya Yadav,riya.yadav324@gmail.com,6806549529,Techno India College,CSE,6,5.24,37,53,48,61,2,2,3,0,0
+Anjali Patel,anjali.patel325@gmail.com,6063242750,Modern Engineering College,ECE,7,7.02,98,77,94,29,2,1,1,0,1
+Tanya Verma,tanya.verma326@gmail.com,8332991673,Modern Engineering College,IT,6,9.3,67,78,36,40,1,6,3,3,0
+Ravi Yadav,ravi.yadav327@gmail.com,9158187289,XYZ College,ECE,7,6.87,74,71,55,30,0,4,3,4,0
+Shreya Roy,shreya.roy328@gmail.com,6223714148,LMN College,AIML,6,8.04,76,31,56,60,0,6,1,0,0
+Megha Pandey,megha.pandey329@gmail.com,8966754731,Modern Engineering College,IT,7,8.7,66,50,98,36,2,0,0,5,1
+Nitin Pandey,nitin.pandey330@gmail.com,6461243650,PQR College,DS,6,6.52,79,86,59,27,3,5,1,4,0
+Komal Rajput,komal.rajput331@gmail.com,7879048201,Central Institute of Technology,ME,8,8.35,59,53,79,66,3,4,4,8,1
+Rohan Mishra,rohan.mishra332@gmail.com,6665829369,Modern Engineering College,ME,7,7.6,93,30,83,48,0,5,4,3,0
+Rohan Sahu,rohan.sahu333@gmail.com,8314800617,Global Institute of Technology,ECE,8,8.28,54,66,76,77,2,1,0,8,1
+Amit Mehta,amit.mehta334@gmail.com,6557376230,PQR College,CSE,6,5.51,59,42,39,98,3,7,4,4,0
+Shreya Singh,shreya.singh335@gmail.com,8602550993,XYZ College,CSE,6,8.15,45,89,42,71,3,5,0,4,1
+Amit Rajput,amit.rajput336@gmail.com,6302314710,Government Engineering College,AIML,6,9.61,47,42,64,93,3,3,1,8,1
+Yash Sahu,yash.sahu337@gmail.com,6768360597,Central Institute of Technology,EEE,8,5.51,80,88,89,38,1,2,4,6,0
+Sakshi Sahu,sakshi.sahu338@gmail.com,6679362694,Central Institute of Technology,DS,7,9.33,76,77,87,80,2,3,4,8,1
+Manish Pandey,manish.pandey339@gmail.com,8363257229,Government Engineering College,CIVIL,7,7.15,85,30,39,61,0,8,1,4,1
+Muskan Singh,muskan.singh340@gmail.com,6922656948,Techno India College,CSE,8,8.95,54,42,39,83,2,2,1,4,1
+Megha Singh,megha.singh341@gmail.com,7000702246,Government Engineering College,ME,6,7.74,62,39,76,86,1,7,4,1,1
+Prashant Gupta,prashant.gupta342@gmail.com,6160509766,National Engineering College,EEE,6,8.74,77,74,90,78,0,3,4,0,1
+Sneha Gupta,sneha.gupta343@gmail.com,8252209366,ABC College,CIVIL,8,7.71,76,94,63,44,0,6,3,8,0
+Ayush Kumar,ayush.kumar344@gmail.com,7244608630,Global Institute of Technology,IT,6,6.61,95,36,86,58,0,6,4,6,0
+Arjun Yadav,arjun.yadav345@gmail.com,8402158803,LMN College,DS,7,8.13,60,97,66,56,0,4,3,5,1
+Anjali Verma,anjali.verma346@gmail.com,8885133776,Global Institute of Technology,EEE,7,6.67,76,74,38,64,1,5,4,7,1
+Kavita Yadav,kavita.yadav347@gmail.com,6192747606,LMN College,ECE,8,6.79,45,44,41,56,1,4,0,5,0
+Muskan Yadav,muskan.yadav348@gmail.com,8023746966,ABC College,CIVIL,6,8.55,62,56,68,95,3,2,0,6,1
+Piyush Mishra,piyush.mishra349@gmail.com,6186753800,Government Engineering College,IT,6,6.36,69,36,94,26,0,6,2,5,0
+Priya Gupta,priya.gupta350@gmail.com,9725499475,Global Institute of Technology,ECE,7,7.44,47,70,97,93,0,2,1,8,1
+Aarti Roy,aarti.roy351@gmail.com,9060031897,ABC College,CSE,6,9.43,74,72,97,75,1,0,2,5,1
+Prince Gupta,prince.gupta352@gmail.com,7014491722,Central Institute of Technology,ME,6,8.0,84,33,70,53,1,5,3,2,0
+Manish Mishra,manish.mishra353@gmail.com,8911965893,National Engineering College,ECE,7,6.15,54,84,74,67,3,8,1,3,1
+Megha Mishra,megha.mishra354@gmail.com,8937966520,LMN College,IT,7,8.3,52,85,53,97,1,5,0,8,1
+Neha Patel,neha.patel355@gmail.com,7364071251,PQR College,CSE,7,9.22,87,82,73,81,2,2,1,1,1
+Pooja Sharma,pooja.sharma356@gmail.com,9274687003,National Engineering College,ME,8,7.72,64,59,64,28,2,1,3,2,0
+Sumit Yadav,sumit.yadav357@gmail.com,9058098865,Techno India College,IT,7,7.36,52,50,59,53,0,6,0,4,0
+Ayush Rajput,ayush.rajput358@gmail.com,8883379418,LMN College,ECE,6,5.85,91,92,76,83,1,6,3,0,1
+Manish Rajput,manish.rajput359@gmail.com,7343884495,Global Institute of Technology,CSE,8,5.52,93,35,66,91,3,0,4,6,0
+Prince Sharma,prince.sharma360@gmail.com,6815401018,Government Engineering College,DS,7,9.25,71,89,56,79,2,0,4,2,1
+Prashant Yadav,prashant.yadav361@gmail.com,6388440314,Central Institute of Technology,AIML,6,8.74,52,80,87,66,3,0,1,7,1
+Ravi Roy,ravi.roy362@gmail.com,7952849519,XYZ College,ME,7,8.32,55,45,46,39,3,5,0,8,1
+Rishabh Chouhan,rishabh.chouhan363@gmail.com,6686763846,Global Institute of Technology,EEE,6,8.69,77,49,55,43,1,0,3,4,0
+Kunal Gupta,kunal.gupta364@gmail.com,8690594504,PQR College,AIML,6,9.61,35,62,36,83,3,7,4,0,0
+Komal Singh,komal.singh365@gmail.com,6931466076,National Engineering College,DS,7,6.97,45,30,66,95,2,8,1,0,0
+Kavita Sharma,kavita.sharma366@gmail.com,8805802822,Techno India College,CSE,6,9.1,73,72,46,31,0,6,1,2,1
+Riya Sahu,riya.sahu367@gmail.com,8970028366,National Engineering College,IT,7,8.6,81,34,46,63,2,5,3,1,0
+Aarti Verma,aarti.verma368@gmail.com,7257706935,Modern Engineering College,IT,6,8.33,70,72,87,92,1,3,4,0,1
+Yash Rajput,yash.rajput369@gmail.com,8701442510,Central Institute of Technology,AIML,7,8.48,71,84,75,58,2,2,4,7,1
+Prince Yadav,prince.yadav370@gmail.com,8115290517,PQR College,ECE,8,6.39,59,30,50,28,3,1,1,6,0
+Amit Jain,amit.jain371@gmail.com,7501735492,Central Institute of Technology,ECE,6,8.07,71,62,43,64,2,8,4,5,0
+Neha Sahu,neha.sahu372@gmail.com,7431439122,Techno India College,EEE,8,7.73,38,52,59,67,2,7,3,0,0
+Abhishek Patel,abhishek.patel373@gmail.com,8693805581,Modern Engineering College,CIVIL,7,8.76,87,37,73,97,2,8,4,0,1
+Yash Sahu,yash.sahu374@gmail.com,7424723488,Techno India College,AIML,6,6.35,38,73,83,93,1,6,1,1,1
+Deepak Rajput,deepak.rajput375@gmail.com,6135842149,Government Engineering College,EEE,6,7.39,65,77,92,63,1,8,2,2,1
+Shreya Pandey,shreya.pandey376@gmail.com,6160610438,LMN College,AIML,7,7.43,96,94,54,49,2,7,4,4,1
+Kavita Pandey,kavita.pandey377@gmail.com,9744348135,XYZ College,IT,6,8.48,93,79,49,25,2,0,4,1,0
+Divya Roy,divya.roy378@gmail.com,6198168828,XYZ College,ME,6,7.77,74,56,76,50,1,4,2,8,1
+Kunal Sahu,kunal.sahu379@gmail.com,6505306513,Government Engineering College,IT,6,6.31,36,95,48,51,2,8,2,4,0
+Sahil Chouhan,sahil.chouhan380@gmail.com,7051515688,PQR College,AIML,7,7.94,78,86,41,41,0,7,0,1,1
+Sneha Verma,sneha.verma381@gmail.com,7831656441,Global Institute of Technology,IT,8,7.86,92,75,74,67,1,8,0,7,1
+Arjun Verma,arjun.verma382@gmail.com,9491168520,Modern Engineering College,AIML,7,6.49,94,90,64,53,1,4,2,6,1
+Piyush Jain,piyush.jain383@gmail.com,9387778726,Techno India College,DS,7,5.15,95,44,79,86,3,2,2,5,1
+Yash Patel,yash.patel384@gmail.com,8181627202,XYZ College,EEE,8,8.82,76,39,73,93,3,6,4,6,1
+Riya Singh,riya.singh385@gmail.com,8353423112,PQR College,DS,7,5.32,61,85,90,97,2,8,1,2,1
+Yash Mehta,yash.mehta386@gmail.com,8090061251,XYZ College,DS,7,7.66,91,52,74,76,0,1,4,6,0
+Komal Sahu,komal.sahu387@gmail.com,8835386061,ABC College,AIML,6,8.92,35,48,54,82,2,6,4,7,0
+Simran Sahu,simran.sahu388@gmail.com,9768513187,Techno India College,ME,8,8.81,73,85,79,36,0,8,3,2,1
+Sneha Jain,sneha.jain389@gmail.com,9870090650,Central Institute of Technology,CSE,6,8.38,80,44,71,28,1,6,4,6,0
+Manish Kumar,manish.kumar390@gmail.com,7638809377,Global Institute of Technology,ECE,8,5.83,52,54,84,71,3,2,2,2,0
+Rahul Verma,rahul.verma391@gmail.com,8784810609,ABC College,IT,8,9.25,90,47,45,42,3,7,4,6,0
+Pooja Yadav,pooja.yadav392@gmail.com,8187920410,Global Institute of Technology,DS,7,6.71,58,84,35,98,3,3,4,4,0
+Nitin Chouhan,nitin.chouhan393@gmail.com,7576124271,ABC College,CSE,8,7.32,82,44,96,35,1,8,2,7,1
+Anjali Mishra,anjali.mishra394@gmail.com,9822157884,National Engineering College,AIML,6,7.27,44,69,41,68,0,7,3,8,1
+Yash Rajput,yash.rajput395@gmail.com,7423841741,Global Institute of Technology,CIVIL,7,6.39,39,68,68,32,3,2,4,0,0
+Riya Sharma,riya.sharma396@gmail.com,7231863866,Modern Engineering College,AIML,6,7.43,70,62,51,60,2,4,0,1,1
+Pooja Roy,pooja.roy397@gmail.com,8541633324,PQR College,DS,7,8.88,68,60,97,48,0,5,0,2,1
+Kavita Mehta,kavita.mehta398@gmail.com,8130081627,Global Institute of Technology,EEE,6,8.17,56,56,79,31,2,1,0,2,1
+Tanya Yadav,tanya.yadav399@gmail.com,7294361972,Modern Engineering College,ECE,7,8.28,84,90,68,43,3,0,2,7,1
+Deepak Mishra,deepak.mishra400@gmail.com,8932931415,ABC College,AIML,8,8.06,90,64,77,59,2,1,2,6,1
+Nisha Rajput,nisha.rajput401@gmail.com,8885744937,National Engineering College,ECE,8,6.62,58,70,36,26,0,0,3,1,0
+Vikas Sahu,vikas.sahu402@gmail.com,7915307177,Techno India College,ECE,8,6.36,59,34,38,36,0,3,4,1,0
+Anjali Mehta,anjali.mehta403@gmail.com,8597105677,PQR College,EEE,8,8.67,58,44,58,57,2,7,0,7,1
+Isha Rajput,isha.rajput404@gmail.com,9880036912,Techno India College,ME,6,8.75,70,37,83,74,2,0,2,4,1
+Kunal Verma,kunal.verma405@gmail.com,8111928965,LMN College,EEE,6,8.1,48,48,90,52,0,7,2,1,0
+Rohan Verma,rohan.verma406@gmail.com,8453906177,Government Engineering College,DS,6,9.3,54,30,39,74,2,2,2,6,1
+Rahul Mishra,rahul.mishra407@gmail.com,9039143129,Modern Engineering College,DS,7,6.94,43,58,35,74,3,1,4,8,0
+Sakshi Sahu,sakshi.sahu408@gmail.com,7300636690,Global Institute of Technology,CSE,8,9.79,46,76,78,35,3,4,1,2,1
+Amit Kumar,amit.kumar409@gmail.com,8837831301,LMN College,ME,8,6.87,48,75,97,35,3,3,1,0,0
+Priya Rajput,priya.rajput410@gmail.com,8546681221,LMN College,DS,7,5.3,74,93,92,27,0,5,0,5,1
+Tanya Verma,tanya.verma411@gmail.com,6909150816,Central Institute of Technology,DS,8,9.18,54,59,44,29,1,7,0,7,1
+Amit Singh,amit.singh412@gmail.com,9012046858,PQR College,CSE,6,8.04,74,42,93,46,0,1,0,7,1
+Riya Singh,riya.singh413@gmail.com,6271055863,LMN College,EEE,7,8.9,86,71,50,98,1,5,1,0,1
+Pooja Jain,pooja.jain414@gmail.com,6271535964,XYZ College,ME,6,8.64,56,77,56,81,1,0,1,1,1
+Manish Pandey,manish.pandey415@gmail.com,6677546830,ABC College,DS,6,5.03,57,41,71,78,3,2,1,2,0
+Payal Yadav,payal.yadav416@gmail.com,7769661076,LMN College,IT,8,8.32,58,93,46,63,2,6,0,8,1
+Ravi Verma,ravi.verma417@gmail.com,8277187437,XYZ College,CIVIL,8,7.44,94,56,70,31,1,1,1,7,1
+Pooja Patel,pooja.patel418@gmail.com,8878240673,ABC College,CSE,8,6.75,61,85,67,67,3,0,0,0,1
+Pooja Patel,pooja.patel419@gmail.com,9373662535,ABC College,DS,8,5.56,65,86,76,78,1,5,1,1,1
+Ayush Verma,ayush.verma420@gmail.com,7018415610,Global Institute of Technology,ECE,7,9.28,44,90,97,31,3,2,1,7,1
+Manish Jain,manish.jain421@gmail.com,6585853361,Modern Engineering College,ECE,8,6.72,69,55,77,41,0,0,2,2,0
+Divya Yadav,divya.yadav422@gmail.com,7796257670,PQR College,CIVIL,6,9.25,55,51,64,36,3,8,3,3,0
+Abhishek Mehta,abhishek.mehta423@gmail.com,7987551590,Government Engineering College,CSE,8,7.05,66,61,76,80,1,2,4,0,0
+Amit Sharma,amit.sharma424@gmail.com,8021437651,Central Institute of Technology,CSE,7,7.55,96,42,92,88,1,1,4,0,0
+Simran Patel,simran.patel425@gmail.com,7539340680,Government Engineering College,ECE,8,9.79,37,91,74,45,3,0,3,7,0
+Tanya Patel,tanya.patel426@gmail.com,9392417340,Techno India College,DS,8,8.04,44,79,77,92,0,4,3,4,1
+Nitin Chouhan,nitin.chouhan427@gmail.com,9412260278,LMN College,AIML,8,9.23,42,95,81,31,0,6,2,7,1
+Amit Jain,amit.jain428@gmail.com,7573817755,PQR College,AIML,8,8.4,61,47,77,55,0,7,4,3,0
+Deepak Jain,deepak.jain429@gmail.com,9856593038,Government Engineering College,EEE,7,5.26,82,74,92,87,0,7,4,8,1
+Kunal Chouhan,kunal.chouhan430@gmail.com,7581174368,XYZ College,ECE,7,5.42,85,52,71,34,0,2,2,1,0
+Komal Patel,komal.patel431@gmail.com,9758066922,LMN College,CSE,7,7.0,51,90,79,78,3,0,2,3,1
+Priya Mehta,priya.mehta432@gmail.com,9444516981,LMN College,CIVIL,7,7.78,76,92,91,83,2,2,2,2,1
+Ayush Yadav,ayush.yadav433@gmail.com,7597308268,Government Engineering College,CSE,6,6.69,93,51,55,93,2,2,1,2,0
+Nisha Verma,nisha.verma434@gmail.com,6176744138,Techno India College,IT,7,6.25,58,56,39,65,2,2,2,7,0
+Aditya Mishra,aditya.mishra435@gmail.com,7295189353,XYZ College,CSE,7,9.47,53,88,75,44,0,8,4,5,0
+Abhishek Roy,abhishek.roy436@gmail.com,7244798250,National Engineering College,IT,8,8.5,91,73,49,86,0,2,4,1,0
+Priya Kumar,priya.kumar437@gmail.com,8652236748,LMN College,DS,7,5.44,42,54,63,60,1,0,0,8,1
+Piyush Verma,piyush.verma438@gmail.com,8198110658,Global Institute of Technology,ECE,7,6.53,42,76,85,43,3,5,3,5,0
+Sahil Jain,sahil.jain439@gmail.com,7509058380,Government Engineering College,DS,8,5.42,91,83,91,61,1,6,3,2,1
+Sumit Verma,sumit.verma440@gmail.com,6616926023,LMN College,ME,7,9.74,77,38,83,36,0,6,2,6,1
+Aarti Yadav,aarti.yadav441@gmail.com,9050487679,National Engineering College,IT,6,5.89,83,67,97,30,2,4,3,8,0
+Ayush Sharma,ayush.sharma442@gmail.com,9398262106,ABC College,IT,7,6.44,95,45,71,78,1,7,1,0,0
+Ritika Yadav,ritika.yadav443@gmail.com,6286580954,National Engineering College,CIVIL,8,7.31,90,63,95,40,2,8,4,0,0
+Aditya Chouhan,aditya.chouhan444@gmail.com,6251300243,PQR College,CIVIL,7,9.22,52,75,55,31,2,5,3,5,0
+Sahil Gupta,sahil.gupta445@gmail.com,8274667646,XYZ College,ECE,8,5.88,47,51,76,65,2,4,2,1,1
+Megha Jain,megha.jain446@gmail.com,9536110214,PQR College,CSE,6,7.49,82,92,87,68,1,1,1,2,1
+Ayush Mehta,ayush.mehta447@gmail.com,6809243907,Central Institute of Technology,AIML,7,7.21,44,44,51,27,3,5,2,5,0
+Kunal Roy,kunal.roy448@gmail.com,8566881372,Central Institute of Technology,CIVIL,6,8.41,38,45,63,41,1,3,2,2,1
+Arjun Verma,arjun.verma449@gmail.com,7824523903,XYZ College,AIML,6,8.72,90,35,60,38,0,8,4,0,0
+Neha Roy,neha.roy450@gmail.com,7086680310,ABC College,AIML,7,8.2,47,45,61,100,1,2,2,0,0
+Kavita Mehta,kavita.mehta451@gmail.com,9204896032,Government Engineering College,CIVIL,7,5.77,65,94,43,37,0,8,1,3,0
+Aditya Roy,aditya.roy452@gmail.com,9238482108,Central Institute of Technology,CSE,8,5.47,62,94,95,71,1,7,0,2,1
+Manish Kumar,manish.kumar453@gmail.com,6920299834,Central Institute of Technology,ECE,7,5.54,75,45,94,39,1,7,2,4,1
+Amit Verma,amit.verma454@gmail.com,7409244959,Modern Engineering College,AIML,7,6.36,74,86,63,95,3,4,3,3,1
+Abhishek Sahu,abhishek.sahu455@gmail.com,7578148768,PQR College,CSE,8,7.36,48,80,91,91,0,1,1,6,1
+Megha Verma,megha.verma456@gmail.com,9184426853,PQR College,AIML,7,9.68,78,55,86,40,1,6,3,4,1
+Megha Gupta,megha.gupta457@gmail.com,9248296389,Global Institute of Technology,CIVIL,7,8.2,86,92,70,43,3,1,0,4,1
+Komal Singh,komal.singh458@gmail.com,8698833021,PQR College,CSE,6,8.54,43,93,38,47,3,5,1,4,1
+Riya Verma,riya.verma459@gmail.com,9264911503,XYZ College,DS,7,5.97,98,92,68,94,2,8,4,0,0
+Isha Roy,isha.roy460@gmail.com,9929633791,XYZ College,EEE,7,6.51,83,86,93,29,0,2,4,4,0
+Komal Kumar,komal.kumar461@gmail.com,6577622607,Government Engineering College,EEE,7,8.67,97,90,95,96,1,8,0,6,1
+Komal Chouhan,komal.chouhan462@gmail.com,7622628777,National Engineering College,CIVIL,7,6.54,38,35,51,71,2,0,2,6,0
+Isha Jain,isha.jain463@gmail.com,7534875624,Global Institute of Technology,CIVIL,6,8.17,66,60,74,100,0,1,2,1,1
+Aditya Sharma,aditya.sharma464@gmail.com,8312482595,Techno India College,CSE,7,8.16,89,95,88,59,0,7,4,0,0
+Manish Chouhan,manish.chouhan465@gmail.com,7676329121,Techno India College,AIML,7,5.48,61,73,98,89,2,2,4,4,0
+Isha Singh,isha.singh466@gmail.com,8134391358,XYZ College,ECE,7,6.27,73,81,63,36,0,5,2,1,1
+Payal Yadav,payal.yadav467@gmail.com,7834405845,LMN College,CIVIL,6,8.13,73,94,73,80,2,3,3,6,1
+Riya Mishra,riya.mishra468@gmail.com,7946602034,Central Institute of Technology,IT,6,8.01,58,93,62,84,2,8,4,6,1
+Prince Sharma,prince.sharma469@gmail.com,8243130794,LMN College,CIVIL,7,5.71,54,68,90,77,2,1,1,6,1
+Sahil Sahu,sahil.sahu470@gmail.com,6689704353,Government Engineering College,ECE,7,6.14,54,54,38,56,2,7,3,8,0
+Isha Sahu,isha.sahu471@gmail.com,9889761307,ABC College,ECE,6,6.31,38,63,70,95,1,0,3,0,0
+Anjali Jain,anjali.jain472@gmail.com,8583851226,Government Engineering College,AIML,7,9.3,46,80,52,55,0,8,0,8,1
+Payal Gupta,payal.gupta473@gmail.com,8132241237,XYZ College,ECE,8,5.59,75,72,84,55,3,3,1,1,1
+Simran Gupta,simran.gupta474@gmail.com,7887532541,Global Institute of Technology,ME,8,5.27,82,44,75,94,3,7,1,4,1
+Shreya Yadav,shreya.yadav475@gmail.com,9073784537,Techno India College,ME,6,8.1,39,36,65,57,3,4,2,1,1
+Nisha Mehta,nisha.mehta476@gmail.com,7900105560,Global Institute of Technology,CSE,7,9.45,67,68,46,55,2,3,1,7,1
+Prashant Kumar,prashant.kumar477@gmail.com,9390092441,ABC College,ME,6,8.95,97,90,87,67,3,1,1,4,1
+Rohan Jain,rohan.jain478@gmail.com,7807625174,National Engineering College,CIVIL,7,8.34,41,53,91,42,0,6,1,4,0
+Yash Verma,yash.verma479@gmail.com,6476003514,PQR College,ECE,8,8.43,51,82,75,82,3,2,2,2,1
+Deepak Pandey,deepak.pandey480@gmail.com,7210310334,LMN College,AIML,7,6.76,85,78,63,27,0,8,4,3,0
+Divya Singh,divya.singh481@gmail.com,7124350133,PQR College,CSE,7,7.97,68,49,46,72,1,1,0,8,1
+Divya Mehta,divya.mehta482@gmail.com,8893133105,Modern Engineering College,AIML,6,8.43,59,64,71,88,3,2,3,3,1
+Simran Mehta,simran.mehta483@gmail.com,7215335058,LMN College,EEE,6,6.96,53,33,72,58,1,7,1,5,0
+Prashant Yadav,prashant.yadav484@gmail.com,6368244826,ABC College,DS,6,9.18,85,57,84,79,2,1,0,8,1
+Sneha Jain,sneha.jain485@gmail.com,9998892039,LMN College,DS,7,9.78,40,30,67,89,3,4,3,5,1
+Aarti Sharma,aarti.sharma486@gmail.com,8493172294,PQR College,ME,6,7.42,78,89,51,36,2,8,3,2,1
+Neha Jain,neha.jain487@gmail.com,6189675018,PQR College,DS,7,8.59,90,66,68,58,2,6,1,5,1
+Kavita Mishra,kavita.mishra488@gmail.com,9663751667,Modern Engineering College,CSE,6,5.71,64,53,39,85,2,2,3,6,0
+Komal Sharma,komal.sharma489@gmail.com,7896312622,Techno India College,DS,7,7.37,53,45,79,36,1,4,1,2,1
+Ritika Chouhan,ritika.chouhan490@gmail.com,9826362839,National Engineering College,ECE,8,9.79,35,97,58,78,0,3,3,1,0
+Priya Gupta,priya.gupta491@gmail.com,8926214216,XYZ College,EEE,7,7.83,48,71,54,28,0,7,3,7,0
+Sumit Sahu,sumit.sahu492@gmail.com,6024933829,Techno India College,CSE,8,7.99,92,71,51,52,0,4,2,0,0
+Aarti Chouhan,aarti.chouhan493@gmail.com,7638061586,XYZ College,EEE,7,5.85,86,41,37,51,1,6,3,4,0
+Neha Gupta,neha.gupta494@gmail.com,8108163633,Global Institute of Technology,ME,8,7.9,80,42,82,90,1,7,3,6,1
+Ritika Chouhan,ritika.chouhan495@gmail.com,8578443876,Global Institute of Technology,AIML,7,8.89,58,85,89,36,0,8,2,7,1
+Prashant Sahu,prashant.sahu496@gmail.com,9065041081,PQR College,DS,8,8.02,45,67,94,80,0,7,2,2,1
+Muskan Mehta,muskan.mehta497@gmail.com,7067958681,Central Institute of Technology,EEE,7,7.73,44,35,48,90,3,6,0,7,1
+Mohit Jain,mohit.jain498@gmail.com,7094616253,National Engineering College,AIML,8,5.08,94,52,58,75,0,1,3,4,0
+Megha Rajput,megha.rajput499@gmail.com,7954202161,Modern Engineering College,ME,7,9.64,58,57,58,35,2,1,3,8,0
+Rahul Kumar,rahul.kumar500@gmail.com,6501129341,ABC College,IT,8,7.29,86,92,73,71,3,4,0,2,1
